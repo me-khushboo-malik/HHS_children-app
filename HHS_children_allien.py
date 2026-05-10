@@ -12,7 +12,7 @@ Original file is located at
 import pandas as pd
 
 # Load dataset
-df = pd.read_csv("HHS_Unaccompanied_Alien_Children_Program.csv")
+df = pd.read_csv("./HHS_Unaccompanied_Alien_Children_Program.csv")
 
 # Display first 5 rows
 print(df.head())
